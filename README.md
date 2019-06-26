@@ -8,16 +8,16 @@ keep learning...
 
 ## Golang标准库包记录
 
-<img src="./golang/golang.org_bufio.png" width="800" />
-<img src="./golang/golang.org_database_sql.png" width="800" />
-<img src="./golang/golang.org_flag.png" width="800" />
-<img src="./golang/golang.org_image.png" width="800" />
-<img src="./golang/golang.org_io.png" width="800" />
-<img src="./golang/golang.org_os(os,file,path).png" width="800" />
-<img src="./golang/golang.org_strings.png" width="800" />
-<img src="./golang/golang.org_time.png" width="800" />
-<img src="./golang/golang.org_x_fmt.png" width="800" />
-<img src="./golang/golang.org_x_icmp.png" width="800" />
-<img src="./golang/golang.org_x_net.png" width="800" />
+<img src="./golang/golang.org_bufio.png" width="100%" />
+<img src="./golang/golang.org_database_sql.png" width="100%" />
+<img src="./golang/golang.org_flag.png" width="100%" />
+<img src="./golang/golang.org_image.png" width="100%" />
+<img src="./golang/golang.org_io.png" width="100%" />
+<img src="./golang/golang.org_os(os,file,path).png" width="100%" />
+<img src="./golang/golang.org_strings.png" width="100%" />
+<img src="./golang/golang.org_time.png" width="100%" />
+<img src="./golang/golang.org_x_fmt.png" width="100%" />
+<img src="./golang/golang.org_x_icmp.png" width="100%" />
+<img src="./golang/golang.org_x_net.png" width="100%" />
 
 
