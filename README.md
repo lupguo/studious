@@ -8,9 +8,9 @@ keep learning...
 
 ## Golang标准库包记录
 - [net](#net)
-- [net/http](#net/http)
+- [net/http](#nethttp)
 - [bufio](#bufio)
-- [database/mysql](#database/mysql)
+- [database/mysql](#databasemysql)
 - [flag](#flag)
 - [image](#image)
 - [io](#io)
@@ -18,12 +18,12 @@ keep learning...
 - [strings](#strings)
 - [time](#time)
 - [fmt](#fmt)
-- [x/icmp](#x/icmp)
+- [x/icmp](#xicmp)
 
 ## 图示
 
 ### net
-<img src="./golang_x1500/golang.org_x_net.png" width="100%" />
+<img src="./golang_x1500/golang.org_net.png" width="100%" />
 
 ### net/http
 <img src="./golang_x1500/golang.org_net_http.png" width="100%" />
