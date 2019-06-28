@@ -1,12 +1,12 @@
-## studious
+## Studious
 
-keep learning...
+Keep learning...
 
 ## 这个仓库用来作甚？
 
-> 目前主要是存储在学习golang编程中的一些小结，但未梳理成文在记录在 https://tkstorm.com 上的内容
+> 目前主要是围绕Golang的库的学习整理，通过脑图系统化的梳理相关标准库包!
 
-## Golang标准库包记录
+## Golang标准库脑图支持
 - [net](#net)
 - [net/http](#nethttp)
 - [bufio](#bufio)
