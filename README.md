@@ -9,6 +9,7 @@ Keep learning...
 ## Golang标准库脑图支持
 - [net](#net)
 - [net/http](#nethttp)
+- [httptest](#httptest)
 - [bufio](#bufio)
 - [database/mysql](#databasemysql)
 - [flag](#flag)
@@ -57,4 +58,7 @@ Keep learning...
 
 ### x/icmp
 <img src="./golang_x1500/golang.org_x_icmp.png" width="100%" />
+
+### httptest
+<img src="./golang_x1500/golang.org_httptest_httputil.png" width="100%" />
 
