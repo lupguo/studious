@@ -20,6 +20,7 @@ Keep learning...
 - [time](#time)
 - [fmt](#fmt)
 - [x/icmp](#xicmp)
+- [template](#template)
 
 ## 图示
 
@@ -61,4 +62,7 @@ Keep learning...
 
 ### httptest
 <img src="./golang_x1500/golang.org_httptest_httputil.png" width="100%" />
+
+### httptest
+<img src="./golang_x1500/golang.org_text.png" width="100%" />
 
